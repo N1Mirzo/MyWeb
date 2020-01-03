@@ -1,0 +1,14 @@
+/* Global styles */
+body {
+  background: #f5f5f5;
+}
+
+.active {
+  background-color: #b43c3c;
+  bodylor: white;
+}
+
+.container {
+  padding-left: 16px;
+  padding-right: 16px;
+}

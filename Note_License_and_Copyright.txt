@@ -1,0 +1,22 @@
+### Note this is a copyright website project?
+### Using it illegally(without source url) is banned!
+### Copying project fully is not allowed. Only copying one or two components which are very necessary to your project are allowed.
+### Copying full project and editing it is banned. And the perpetrators are accountable to the law.
+
+#### Thank you for your attention!
+
+## Q&As
+
+#### Q: Ok, if this is a copyright website, why it is on codepen.
+
+#### A: Yes, I know codepen is a code free sharing website.
+#### But I love working on codepen and love its editor so I do my projects on codepen.
+
+#### Q: In which copyright your website is?
+
+#### A: Every project I made are under the copyright of Uzbekistan.
+#### And everytime I make any project it will automatically become copyrighted by my organisation.
+
+#### Q: If so your project is copyrighted where is your copyright and license files to verify.
+
+#### A: I exclude them from my project and placed this "Note_License_and_Copyright.txt" file in order to verify it has licences and copyright to make it. Because I didn't want to copy all the files in my "copyright and licenses" folder. So note that this website is made under copyright laws of my country.
